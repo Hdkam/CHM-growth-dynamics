@@ -2,7 +2,7 @@
 
 R code accompanying the paper:
 
-> **de Lame H.**, Favaro A., Lejeune P., Michez A., Plumacker A., Pollet T., Ponette Q., Vander Linden A., Tasseroul M.-P., Messier C. & Bastin J.-F. *Characterizing forest growth dynamics from multi-source time series of canopy height, illustrated in Belgian temperate forests*. Submitted for peer review.
+> **de Lame H.**, Collet T., Depoortere P., Favaro A., Lejeune P., Michez A., Plumacker A., Pollet T., Ponette Q., Rousseau Z., Tasseroul M.-P., Vander Linden A., Messier C. & Bastin J.-F. *Characterizing forest growth dynamics from multi-source time series of canopy height, illustrated in Belgian temperate forests*. Submitted for peer review.
 
 ## Overview
 
